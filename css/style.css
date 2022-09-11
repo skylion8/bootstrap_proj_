@@ -1,0 +1,16 @@
+.banner_ {
+  background-size: cover;
+  background-image: url("../img/banner_1.jpg");
+  height: 100%;
+}
+.banner_2 {
+  background-image: url("../img/banner_2.jpg");
+}
+.banner_3 {
+  background-image: url("../img/banner_3.jpg");
+}
+.banner_4 {
+  background-image: url("../img/banner_4.jpg");
+}
+
+/*# sourceMappingURL=style.css.map */
