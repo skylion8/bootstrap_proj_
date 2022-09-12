@@ -1,14 +1,14 @@
 .banner_{
   background-size: cover;
   background-image: url("../img/banner_1.jpg");
-  height: 100%;
-&2{
+  height: 100vh;
+&.item_2{
   background-image: url("../img/banner_2.jpg");
 }
-&3{
+&.item_3{
   background-image: url("../img/banner_3.jpg");
 }
-&4{
+&.item_4{
   background-image: url("../img/banner_4.jpg");
 }
 }
