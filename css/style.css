@@ -13,4 +13,8 @@
   background-image: url("../img/banner_4.jpg");
 }
 
+header {
+  z-index: 2;
+}
+
 /*# sourceMappingURL=style.css.map */
